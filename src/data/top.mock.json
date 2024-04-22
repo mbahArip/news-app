@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 38,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Guangdong: Tens of thousands evacuated from massive China floods - BBC.com",
+      "description": "Three have died as rain-swollen rivers burst their banks in Guangdong, China's most populous province.",
+      "url": "https://www.bbc.com/news/articles/cp0gd5ezj9lo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/e0b6/live/ecb91e30-0060-11ef-a561-417442dc4f2f.jpg",
+      "publishedAt": "2024-04-22T06:15:30Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CoinDesk"
+      },
+      "author": "Sam Reynolds",
+      "title": "Bitcoin Transaction Fees Come Crashing Down Post Halving - CoinDesk",
+      "description": "After the halving, fees spiked to $146 for a medium-priority transaction and $170 for a high-priority transaction.",
+      "url": "https://www.coindesk.com/markets/2024/04/22/bitcoin-transaction-fees-come-crashing-down-post-halving/",
+      "urlToImage": "https://www.coindesk.com/resizer/jIfgGt3ZPDVwhE2XffgcLTJ13ow=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/TB6ERLNUXJCN7G5QSI5Q4A2PLY.png",
+      "publishedAt": "2024-04-22T06:10:00Z",
+      "content": "<ul><li>Bitcoin transaction fees have significantly come down post-halving\r\n</li><li>The floor price for the Runes NFT collection has also come down. Runes was supposed to be the tool that maintained… [+1539 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "BHARATHA MALLAWARACHI",
+      "title": "Sri Lanka race crash: 7 killed as car veers off track and rams into spectators - The Associated Press",
+      "description": "Officials say a race car veered off the track during a competition in Sri Lanka and rammed into a crowd of spectators and race officials, killing seven people and injuring 20 others. Thousands of spectators looked on Sunday as the mishap took place during a r…",
+      "url": "https://apnews.com/article/sri-lanka-car-race-accident-fatalities-3405f02aa1cf1d1096a6579ed82fe441",
+      "urlToImage": "https://dims.apnews.com/dims4/default/84d4191/2147483647/strip/true/crop/5000x2813+0+260/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F4d%2F64%2Febf507e531db26407bc00a3bf8f3%2F9ca0c6ec68bb48fb91fafcac99533fbc",
+      "publishedAt": "2024-04-22T04:07:00Z",
+      "content": "COLOMBO, Sri Lanka (AP) A race car veered off the track during a competition in Sri Lanka on Sunday and rammed into a crowd of spectators and race officials, killing seven people and injuring 20 othe… [+905 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Victoria Beckham: Spice Girls reunite... at Posh's 50th birthday - BBC.com",
+      "description": "All five members of the group perform Stop at Victoria Beckham's 50th birthday party in London.",
+      "url": "https://www.bbc.com/news/entertainment-arts-68868289",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10E5A/production/_107101296_gettyimages-144618345.jpg",
+      "publishedAt": "2024-04-22T03:27:36Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "JON GAMBRELL",
+      "title": "Iran's supreme leader tacitly acknowledges that Tehran hit little in its attack on Israel - The Associated Press",
+      "description": "Iran’s supreme leader has dismissed any discussion of whether Tehran’s unprecedented drone-and-missile attack on Israel hit anything there. It's a tacit acknowledgment that few projectiles actually made it through to their targets despite launching a massive …",
+      "url": "https://apnews.com/article/iran-israel-khamenei-mideast-66280e717d335afffd9e258a5985d50c",
+      "urlToImage": "https://dims.apnews.com/dims4/default/81fad62/2147483647/strip/true/crop/2499x1406+0+117/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F37%2F9b%2Fbe2dbdb91d387eefb746204ec3aa%2F06e5160f7f6f407786a7e13f05c75421",
+      "publishedAt": "2024-04-22T01:57:00Z",
+      "content": "JERUSALEM (AP) Irans supreme leader on Sunday dismissed any discussion of whether Tehrans unprecedented drone-and-missile attack on Israel hit anything there, a tacit acknowledgment that despite laun… [+4417 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "",
+      "title": "Video: CNN writer explains how Microsoft's new AI model VASA-1 works - CNN",
+      "description": "CNN Business writer Clare Duffy talks to Julia Chatterley about Microsoft’s new AI model that can take a still image of a face and an audio clip of someone speaking and automatically create a realistic looking video of that person speaking.",
+      "url": "https://www.cnn.com/videos/business/2024/04/22/microsoft-ai-tool-animates-faces-duffy-digvid.cnn",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/240421214939-microsoft-ai-model.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-04-22T01:52:29Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Celina  Tebor, Zoe Sottile, Matt Egan",
+      "title": "Columbia University faces full-blown crisis as rabbi calls for Jewish students to ‘return home’ - CNN",
+      "description": "Columbia University is facing a full-blown crisis heading into Passover as a rabbi linked to the Ivy League school urged Jewish students to stay home and tense confrontations on campus sparked condemnation from the White House and New York officials.",
+      "url": "https://www.cnn.com/2024/04/21/us/columbia-university-jewish-students-protests/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2024-04-20t193811z-1537477061-rc2ia7a42oug-rtrmadp-3-israel-palestinians-usa-protest-copy.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-04-22T01:38:00Z",
+      "content": "Columbia University is facing a full-blown crisis heading into Passover as a rabbi linked to the Ivy League school urged Jewish students to stay home and tense confrontations on campus sparked condem… [+10414 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Tesla: EV giant cuts prices in major markets as sales fall - BBC.com",
+      "description": "The move comes after the firm reported a sharp fall in deliveries in the first three months of 2024.",
+      "url": "https://www.bbc.com/news/articles/c1d4g8jz57yo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0f38/live/f02d4b40-003d-11ef-8f54-77d2b4d92cad.jpg",
+      "publishedAt": "2024-04-22T01:36:39Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "KABC-TV"
+      },
+      "author": null,
+      "title": "Intruder arrested after breaking in to Getty House, official residence of Los Angeles Mayor Karen Bass - KABC-TV",
+      "description": "The 29-year-old Los Angeles man was booked for burglary, LAPD says.",
+      "url": "https://abc7.com/break-in-getty-house-official-residence-los-angeles-mayor-karen-bass/14710462/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/14711531_getty-house-new.jpg?w=1600",
+      "publishedAt": "2024-04-22T01:24:10Z",
+      "content": "LOS ANGELES (KABC) -- An intruder was arrested after breaking in to the Los Angeles mayor's official residence early Sunday morning, officials say.\r\nThe break-in was reported around 6:40 a.m. at the … [+2512 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
+      },
+      "author": null,
+      "title": "Landslide Win For Pro-China Leader's Party In Maldives Parliamentary Vote - NDTV",
+      "description": "The party of Maldives President Mohamed Muizzu won control of parliament in a Sunday election landslide, results showed, with voters backing his tilt towards China and away from regional powerhouse and traditional benefactor India.",
+      "url": "https://www.ndtv.com/world-news/landslide-win-for-pro-china-leader-mohamed-muizzus-party-in-maldives-parliamentary-polls-reports-afp-5492579",
+      "urlToImage": "https://c.ndtvimg.com/2024-04/fvtciulo_mohamed-muizzu_625x300_21_April_24.jpeg?ver-20240316.08",
+      "publishedAt": "2024-04-22T00:46:00Z",
+      "content": "Mohamed Muizzu and his allies had only eight seats in the outgoing parliament\r\nMale: Maldives President Mohamed Muizzu's party won control of parliament in a Sunday election landslide, results showed… [+4129 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "US-Israel: Netanyahu vows to reject any US sanctions on army units - BBC.com",
+      "description": "Reports say the US is planning to cut military aid to one Israeli unit over alleged rights violations.",
+      "url": "https://www.bbc.com/news/world-middle-east-68870273",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/28E6/production/_133207401_mediaitem133207400.jpg",
+      "publishedAt": "2024-04-22T00:11:10Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Alli Rosenbloom",
+      "title": "Kevin Bacon returns to ‘Footloose’ high school to mark film’s 40th anniversary - CNN",
+      "description": "Kevin Bacon has delivered on his promise to return to the Utah high school where his iconic 1984 film “Footloose” was filmed.",
+      "url": "https://www.cnn.com/2024/04/21/entertainment/kevin-bacon-footloose-payson-high-school/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/still-20562833-63007-363-still.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-04-21T23:45:00Z",
+      "content": "Kevin Bacon has delivered on his promise to return to the Utah high school where his iconic 1984 film Footloose was filmed.\r\nBacon appeared at Payson High School on Saturday, months after the schools… [+1534 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "ANDREW MELDRUM Associated Press, CHRISTOPHER WEBER Associated Press",
+      "title": "Terry Anderson, AP reporter abducted in Lebanon and held captive for years, has died at 76 - ABC News",
+      "description": "He was snatched in war-torn Lebanon in 1985 and held for nearly seven years.",
+      "url": "https://abcnews.go.com/US/wireStory/terry-anderson-ap-reporter-held-captive-years-died-109479051",
+      "urlToImage": "https://i.abcnewsfe.com/a/85241e93-0f75-4291-a89c-a23cd35eaa6f/wirestory_c266353298c04dbf874ab4d94536f2b3_16x9.jpg?w=1600",
+      "publishedAt": "2024-04-21T23:26:15Z",
+      "content": "NEW YORK -- Terry Anderson, the globe-trotting Associated Press correspondent who became one of Americas longest-held hostages after he was snatched from a street in war-torn Lebanon in 1985 and held… [+8705 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Steve Janoski",
+      "title": "Chicago police officer, 30, shot dead overnight while heading home from work: 'Another sad day' - New York Post ",
+      "description": "An off-duty Chicago cop was shot and killed as he came home from work early Sunday in what the police superintendent called “another sad day” for the Windy City.",
+      "url": "https://nypost.com/2024/04/21/us-news/chicago-police-officer-fatally-shot-overnight-while-heading-home-from-work/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/04/chicago-police-officer-luis-m-80483634.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2024-04-21T23:07:25Z",
+      "content": "An off-duty Chicago cop was shot and killed as he came home from work early Sunday in what the police superintendent called another sad day for the Windy City.\r\nCops responded to a gunshot detection … [+2875 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YourTango"
+      },
+      "author": "Valeria Black",
+      "title": "5 Zodiac Signs With Excellent Horoscopes On April 22, 2024 - YourTango",
+      "description": "Leo, Cancer, Scorpio, Taurus, and Aries will experience excellent horoscopes on April 22, 2024.",
+      "url": "https://www.yourtango.com/2024373593/zodiac-signs-best-horoscopes-april-22-2024",
+      "urlToImage": "https://www.yourtango.com/sites/default/files/image_blog/zodiac-signs-best-horoscope-april-22-2024.png",
+      "publishedAt": "2024-04-21T23:03:27Z",
+      "content": "Rise and shine, and let your heart make all the decisions this Monday! The energy is sweet and supple for all those who remain receptive to the goodness of the world. While five zodiac signs  Leo, Ca… [+5094 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "LPGA"
+      },
+      "author": null,
+      "title": "Nelly Korda Wins Fifth Consecutive Title at The Chevron Championship - LPGA",
+      "description": "THE WOODLANDS, Texas — Nelly Korda collected her fifth straight LPGA Tour victory on Sunday at The Chevron Championship at The Club at Carlton Woods i...",
+      "url": "https://www.lpga.com/news/2024/nelly-korda-wins-fifth-consecutive-title-at-the-chevron-championship",
+      "urlToImage": "https://www.lpga.com/-/media/images/lpga/tournaments/chevron-championship/2024/rd4/kordan_2149589780_2000x1125.jpg",
+      "publishedAt": "2024-04-21T22:58:56Z",
+      "content": "THE WOODLANDS, Texas — Nelly Korda collected her fifth straight LPGA Tour victory on Sunday at The Chevron Championship at The Club at Carlton Woods in The Woodlands, Texas in dominant fashion, winni… [+3884 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Covers.com"
+      },
+      "author": null,
+      "title": "Pelicans vs Thunder Predictions, Picks & Odds - Game 1 - Covers",
+      "description": "NBA predictions, picks, and odds for the New Orleans Pelicans at Oklahoma City Thunder on 4-21. NBA Playoffs best bets and same-game parlay analysis.",
+      "url": "https://www.covers.com/nba/pelicans-vs-thunder-predictions-picks-game-1-tonight-sunday-4-21-2024",
+      "urlToImage": "https://img.covers.com/cms/covers/4a9f57f3-a9b6-4976-aa05-2ebdd6e1e673.gif",
+      "publishedAt": "2024-04-21T22:30:00Z",
+      "content": "The New Orleans Pelicans gutted out a win in the Play-In Tournament despite the absence of Zion Williamson, but they come in as massive NBA odds underdogs against the Oklahoma City Thunder tonight.\r\n… [+5062 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Abel Alvarado",
+      "title": "Ecuadorians head to polls for referendum as Noboa seeks backing for war on crime - CNN",
+      "description": "More than 13 million Ecuadorians head to the polls Sunday for a referendum focused on security that could shape the country’s future under its uncompromising new leader.",
+      "url": "https://www.cnn.com/2024/04/21/americas/ecuador-referendum-noboa-crime-intl-latam/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/shutterstock-editorial-14312181b.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-04-21T21:30:00Z",
+      "content": "More than 13 million Ecuadorians are expected to head to the polls Sunday for a referendum dominated by security issues, in a vote that could shape the political future of President Daniel Noboa and … [+6024 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CBS Sports"
+      },
+      "author": null,
+      "title": "Miami Heat vs. Boston Celtics Live Score and Stats - April 21, 2024 Gametracker - CBS Sports",
+      "description": "Get real-time NBA basketball coverage and scores as Miami Heat takes on Boston Celtics. We bring you the latest game previews, live stats, and recaps on CBSSports.com",
+      "url": "https://www.cbssports.com/nba/gametracker/recap/NBA_20240421_MIA@BOS/",
+      "urlToImage": "https://sportsfly.cbsistatic.com/fly-0675/bundles/sportsmediacss/images/fantasy/default-article-image-large.png",
+      "publishedAt": "2024-04-21T21:22:30Z",
+      "content": "BOSTON (AP) The Celtics spent the days leading up to their playoff matchup with Miami talking about wanting to match the physicality of a team that would be looking for an edge without star Jimmy But… [+3959 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Newsnationnow.com"
+      },
+      "author": "Julia Mueller, The Hill",
+      "title": "What happens if Trump gets convicted ahead of November? - NewsNation Now",
+      "description": "The first-ever criminal trial of a current or former American president is underway in Manhattan, renewing questions over what a potential conviction would mean for former President Trump as he campaigns for the White House. A conviction in the New York case,…",
+      "url": "https://www.newsnationnow.com/the-hill/what-happens-if-trump-gets-convicted-ahead-of-november/",
+      "urlToImage": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2024/04/Conviction-meaning_042124_Photo_AP.png?w=1280",
+      "publishedAt": "2024-04-21T20:59:04Z",
+      "content": "The first-ever criminal trial of a current or former American president is underway in Manhattan, renewing questions over what a potential conviction would mean for former President Trump as he campa… [+7052 chars]"
+    }
+  ]
+}
