@@ -1,240 +1,58 @@
 {
   "status": "ok",
-  "totalResults": 38,
+  "totalResults": 20,
   "articles": [
     {
       "source": {
-        "id": null,
-        "name": "BBC News"
+        "id": "usa-today",
+        "name": "USA Today"
       },
-      "author": null,
-      "title": "Guangdong: Tens of thousands evacuated from massive China floods - BBC.com",
-      "description": "Three have died as rain-swollen rivers burst their banks in Guangdong, China's most populous province.",
-      "url": "https://www.bbc.com/news/articles/cp0gd5ezj9lo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/e0b6/live/ecb91e30-0060-11ef-a561-417442dc4f2f.jpg",
-      "publishedAt": "2024-04-22T06:15:30Z",
+      "author": "Natalie Neysa Alund",
+      "title": "The Lyrid meteor shower will peak on April 21, April 22: What to know - USA TODAY",
+      "description": "The Lyrid meteor shower will peak starting in the late evening hours of Sunday April 21 through dawn on Monday April 22.",
+      "url": "https://www.usatoday.com/story/news/nation/2024/04/21/lyrid-meteor-shower-2024-peak-april/73326426007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/04/15/USAT/73325072007-1220044658.jpg?crop=5897,3317,x0,y614&width=3200&height=1800&format=pjpg&auto=webp",
+      "publishedAt": "2024-04-22T10:41:40Z",
+      "content": "Get ready for another show in the sky, space fans. This time it will be a shooting star show.\r\nThe Lyrid meteor shower will peak in 2024 starting late Sunday night on April 21 and last through dawn o… [+2111 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "News18"
+      },
+      "author": "Pragati Pal",
+      "title": "‘She Refused Religious Conversion’: Hubballi Congress Councillor On Why Daughter Neha Was Murdered; CID To - News18",
+      "description": "Neha Hiremath, daughter of Congress Councillor from Hubballi-Dharwad Municipal Corporation (HDMC) and a first-year Master of Computer Applications (MCA) student at KLE Technological University in Hubballi, was killed by her former classmate Fayaz at her colle…",
+      "url": "https://www.news18.com/politics/neha-hiremath-murder-karnataka-congress-hubballi-councillor-daughter-religious-conversion-cbi-probe-siddaramaiah-govt-bjp-latest-news-8861536.html",
+      "urlToImage": "https://images.news18.com/ibnlive/uploads/2024/04/untitled-design-1-2024-04-9b502b0e82fd4c0c5c90711880b4c68a-16x9.png?impolicy=website&width=1200&height=675",
+      "publishedAt": "2024-04-22T10:39:27Z",
+      "content": "Karnataka Congress leader Niranjan Hiremath said his daughter, Neha, was murdered by a former classmate because she denied religious conversion.\r\nNeha, a first-year Master of Computer Applications (M… [+2240 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "author": "Express Web Desk",
+      "title": "Delhi News Live Updates: HC to hear Arvind Kejriwal’s plea challenging ED summons on May 15 - The Indian Express",
+      "description": "Delhi News Live Updates: Chief Minister Arvind Kejriwal on Monday wrote to the Tihar Jail Superintendent, saying that their statement regarding his requirement for insulin is \"false\" and that he has been asking for insulin daily.",
+      "url": "https://indianexpress.com/article/cities/delhi/delhi-news-live-updates-high-court-arvind-kejriwal-ed-summons-9283752/",
+      "urlToImage": "https://images.indianexpress.com/2024/04/arvind-kejriwal.jpeg",
+      "publishedAt": "2024-04-22T10:26:00Z",
+      "content": "Delhi CM was arrested by the ED on March 21. (File Photo)\r\nhe Enforcement Directorate is likely to file its latest prosecution complaint equivalent to a supplementary chargesheet in the liquor policy… [+984 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Rebecca Rommen, Mia Jankowicz",
+      "title": "Israel hit Iran with a half-ton 'Rampage' supersonic missile: report - Business Insider",
+      "description": "Israeli media reported that Israel used a \"Rampage\" air-to-surface missile.",
+      "url": "https://www.businessinsider.com/israel-hit-iran-with-half-ton-rampage-supersonic-missile-report-2024-4",
+      "urlToImage": "https://i.insider.com/6624ed910dfb1341e9fd5ce6?width=1200&format=jpeg",
+      "publishedAt": "2024-04-22T10:23:00Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CoinDesk"
-      },
-      "author": "Sam Reynolds",
-      "title": "Bitcoin Transaction Fees Come Crashing Down Post Halving - CoinDesk",
-      "description": "After the halving, fees spiked to $146 for a medium-priority transaction and $170 for a high-priority transaction.",
-      "url": "https://www.coindesk.com/markets/2024/04/22/bitcoin-transaction-fees-come-crashing-down-post-halving/",
-      "urlToImage": "https://www.coindesk.com/resizer/jIfgGt3ZPDVwhE2XffgcLTJ13ow=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/TB6ERLNUXJCN7G5QSI5Q4A2PLY.png",
-      "publishedAt": "2024-04-22T06:10:00Z",
-      "content": "<ul><li>Bitcoin transaction fees have significantly come down post-halving\r\n</li><li>The floor price for the Runes NFT collection has also come down. Runes was supposed to be the tool that maintained… [+1539 chars]"
-    },
-    {
-      "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
-      },
-      "author": "BHARATHA MALLAWARACHI",
-      "title": "Sri Lanka race crash: 7 killed as car veers off track and rams into spectators - The Associated Press",
-      "description": "Officials say a race car veered off the track during a competition in Sri Lanka and rammed into a crowd of spectators and race officials, killing seven people and injuring 20 others. Thousands of spectators looked on Sunday as the mishap took place during a r…",
-      "url": "https://apnews.com/article/sri-lanka-car-race-accident-fatalities-3405f02aa1cf1d1096a6579ed82fe441",
-      "urlToImage": "https://dims.apnews.com/dims4/default/84d4191/2147483647/strip/true/crop/5000x2813+0+260/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F4d%2F64%2Febf507e531db26407bc00a3bf8f3%2F9ca0c6ec68bb48fb91fafcac99533fbc",
-      "publishedAt": "2024-04-22T04:07:00Z",
-      "content": "COLOMBO, Sri Lanka (AP) A race car veered off the track during a competition in Sri Lanka on Sunday and rammed into a crowd of spectators and race officials, killing seven people and injuring 20 othe… [+905 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "Victoria Beckham: Spice Girls reunite... at Posh's 50th birthday - BBC.com",
-      "description": "All five members of the group perform Stop at Victoria Beckham's 50th birthday party in London.",
-      "url": "https://www.bbc.com/news/entertainment-arts-68868289",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10E5A/production/_107101296_gettyimages-144618345.jpg",
-      "publishedAt": "2024-04-22T03:27:36Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
-      },
-      "author": "JON GAMBRELL",
-      "title": "Iran's supreme leader tacitly acknowledges that Tehran hit little in its attack on Israel - The Associated Press",
-      "description": "Iran’s supreme leader has dismissed any discussion of whether Tehran’s unprecedented drone-and-missile attack on Israel hit anything there. It's a tacit acknowledgment that few projectiles actually made it through to their targets despite launching a massive …",
-      "url": "https://apnews.com/article/iran-israel-khamenei-mideast-66280e717d335afffd9e258a5985d50c",
-      "urlToImage": "https://dims.apnews.com/dims4/default/81fad62/2147483647/strip/true/crop/2499x1406+0+117/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F37%2F9b%2Fbe2dbdb91d387eefb746204ec3aa%2F06e5160f7f6f407786a7e13f05c75421",
-      "publishedAt": "2024-04-22T01:57:00Z",
-      "content": "JERUSALEM (AP) Irans supreme leader on Sunday dismissed any discussion of whether Tehrans unprecedented drone-and-missile attack on Israel hit anything there, a tacit acknowledgment that despite laun… [+4417 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "",
-      "title": "Video: CNN writer explains how Microsoft's new AI model VASA-1 works - CNN",
-      "description": "CNN Business writer Clare Duffy talks to Julia Chatterley about Microsoft’s new AI model that can take a still image of a face and an audio clip of someone speaking and automatically create a realistic looking video of that person speaking.",
-      "url": "https://www.cnn.com/videos/business/2024/04/22/microsoft-ai-tool-animates-faces-duffy-digvid.cnn",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/240421214939-microsoft-ai-model.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2024-04-22T01:52:29Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Celina  Tebor, Zoe Sottile, Matt Egan",
-      "title": "Columbia University faces full-blown crisis as rabbi calls for Jewish students to ‘return home’ - CNN",
-      "description": "Columbia University is facing a full-blown crisis heading into Passover as a rabbi linked to the Ivy League school urged Jewish students to stay home and tense confrontations on campus sparked condemnation from the White House and New York officials.",
-      "url": "https://www.cnn.com/2024/04/21/us/columbia-university-jewish-students-protests/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2024-04-20t193811z-1537477061-rc2ia7a42oug-rtrmadp-3-israel-palestinians-usa-protest-copy.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2024-04-22T01:38:00Z",
-      "content": "Columbia University is facing a full-blown crisis heading into Passover as a rabbi linked to the Ivy League school urged Jewish students to stay home and tense confrontations on campus sparked condem… [+10414 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "Tesla: EV giant cuts prices in major markets as sales fall - BBC.com",
-      "description": "The move comes after the firm reported a sharp fall in deliveries in the first three months of 2024.",
-      "url": "https://www.bbc.com/news/articles/c1d4g8jz57yo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0f38/live/f02d4b40-003d-11ef-8f54-77d2b4d92cad.jpg",
-      "publishedAt": "2024-04-22T01:36:39Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "KABC-TV"
-      },
-      "author": null,
-      "title": "Intruder arrested after breaking in to Getty House, official residence of Los Angeles Mayor Karen Bass - KABC-TV",
-      "description": "The 29-year-old Los Angeles man was booked for burglary, LAPD says.",
-      "url": "https://abc7.com/break-in-getty-house-official-residence-los-angeles-mayor-karen-bass/14710462/",
-      "urlToImage": "https://cdn.abcotvs.com/dip/images/14711531_getty-house-new.jpg?w=1600",
-      "publishedAt": "2024-04-22T01:24:10Z",
-      "content": "LOS ANGELES (KABC) -- An intruder was arrested after breaking in to the Los Angeles mayor's official residence early Sunday morning, officials say.\r\nThe break-in was reported around 6:40 a.m. at the … [+2512 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "NDTV News"
-      },
-      "author": null,
-      "title": "Landslide Win For Pro-China Leader's Party In Maldives Parliamentary Vote - NDTV",
-      "description": "The party of Maldives President Mohamed Muizzu won control of parliament in a Sunday election landslide, results showed, with voters backing his tilt towards China and away from regional powerhouse and traditional benefactor India.",
-      "url": "https://www.ndtv.com/world-news/landslide-win-for-pro-china-leader-mohamed-muizzus-party-in-maldives-parliamentary-polls-reports-afp-5492579",
-      "urlToImage": "https://c.ndtvimg.com/2024-04/fvtciulo_mohamed-muizzu_625x300_21_April_24.jpeg?ver-20240316.08",
-      "publishedAt": "2024-04-22T00:46:00Z",
-      "content": "Mohamed Muizzu and his allies had only eight seats in the outgoing parliament\r\nMale: Maldives President Mohamed Muizzu's party won control of parliament in a Sunday election landslide, results showed… [+4129 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "US-Israel: Netanyahu vows to reject any US sanctions on army units - BBC.com",
-      "description": "Reports say the US is planning to cut military aid to one Israeli unit over alleged rights violations.",
-      "url": "https://www.bbc.com/news/world-middle-east-68870273",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/28E6/production/_133207401_mediaitem133207400.jpg",
-      "publishedAt": "2024-04-22T00:11:10Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Alli Rosenbloom",
-      "title": "Kevin Bacon returns to ‘Footloose’ high school to mark film’s 40th anniversary - CNN",
-      "description": "Kevin Bacon has delivered on his promise to return to the Utah high school where his iconic 1984 film “Footloose” was filmed.",
-      "url": "https://www.cnn.com/2024/04/21/entertainment/kevin-bacon-footloose-payson-high-school/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/still-20562833-63007-363-still.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2024-04-21T23:45:00Z",
-      "content": "Kevin Bacon has delivered on his promise to return to the Utah high school where his iconic 1984 film Footloose was filmed.\r\nBacon appeared at Payson High School on Saturday, months after the schools… [+1534 chars]"
-    },
-    {
-      "source": {
-        "id": "abc-news",
-        "name": "ABC News"
-      },
-      "author": "ANDREW MELDRUM Associated Press, CHRISTOPHER WEBER Associated Press",
-      "title": "Terry Anderson, AP reporter abducted in Lebanon and held captive for years, has died at 76 - ABC News",
-      "description": "He was snatched in war-torn Lebanon in 1985 and held for nearly seven years.",
-      "url": "https://abcnews.go.com/US/wireStory/terry-anderson-ap-reporter-held-captive-years-died-109479051",
-      "urlToImage": "https://i.abcnewsfe.com/a/85241e93-0f75-4291-a89c-a23cd35eaa6f/wirestory_c266353298c04dbf874ab4d94536f2b3_16x9.jpg?w=1600",
-      "publishedAt": "2024-04-21T23:26:15Z",
-      "content": "NEW YORK -- Terry Anderson, the globe-trotting Associated Press correspondent who became one of Americas longest-held hostages after he was snatched from a street in war-torn Lebanon in 1985 and held… [+8705 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New York Post"
-      },
-      "author": "Steve Janoski",
-      "title": "Chicago police officer, 30, shot dead overnight while heading home from work: 'Another sad day' - New York Post ",
-      "description": "An off-duty Chicago cop was shot and killed as he came home from work early Sunday in what the police superintendent called “another sad day” for the Windy City.",
-      "url": "https://nypost.com/2024/04/21/us-news/chicago-police-officer-fatally-shot-overnight-while-heading-home-from-work/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/04/chicago-police-officer-luis-m-80483634.jpg?quality=75&strip=all&w=1024",
-      "publishedAt": "2024-04-21T23:07:25Z",
-      "content": "An off-duty Chicago cop was shot and killed as he came home from work early Sunday in what the police superintendent called another sad day for the Windy City.\r\nCops responded to a gunshot detection … [+2875 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YourTango"
-      },
-      "author": "Valeria Black",
-      "title": "5 Zodiac Signs With Excellent Horoscopes On April 22, 2024 - YourTango",
-      "description": "Leo, Cancer, Scorpio, Taurus, and Aries will experience excellent horoscopes on April 22, 2024.",
-      "url": "https://www.yourtango.com/2024373593/zodiac-signs-best-horoscopes-april-22-2024",
-      "urlToImage": "https://www.yourtango.com/sites/default/files/image_blog/zodiac-signs-best-horoscope-april-22-2024.png",
-      "publishedAt": "2024-04-21T23:03:27Z",
-      "content": "Rise and shine, and let your heart make all the decisions this Monday! The energy is sweet and supple for all those who remain receptive to the goodness of the world. While five zodiac signs  Leo, Ca… [+5094 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "LPGA"
-      },
-      "author": null,
-      "title": "Nelly Korda Wins Fifth Consecutive Title at The Chevron Championship - LPGA",
-      "description": "THE WOODLANDS, Texas — Nelly Korda collected her fifth straight LPGA Tour victory on Sunday at The Chevron Championship at The Club at Carlton Woods i...",
-      "url": "https://www.lpga.com/news/2024/nelly-korda-wins-fifth-consecutive-title-at-the-chevron-championship",
-      "urlToImage": "https://www.lpga.com/-/media/images/lpga/tournaments/chevron-championship/2024/rd4/kordan_2149589780_2000x1125.jpg",
-      "publishedAt": "2024-04-21T22:58:56Z",
-      "content": "THE WOODLANDS, Texas — Nelly Korda collected her fifth straight LPGA Tour victory on Sunday at The Chevron Championship at The Club at Carlton Woods in The Woodlands, Texas in dominant fashion, winni… [+3884 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Covers.com"
-      },
-      "author": null,
-      "title": "Pelicans vs Thunder Predictions, Picks & Odds - Game 1 - Covers",
-      "description": "NBA predictions, picks, and odds for the New Orleans Pelicans at Oklahoma City Thunder on 4-21. NBA Playoffs best bets and same-game parlay analysis.",
-      "url": "https://www.covers.com/nba/pelicans-vs-thunder-predictions-picks-game-1-tonight-sunday-4-21-2024",
-      "urlToImage": "https://img.covers.com/cms/covers/4a9f57f3-a9b6-4976-aa05-2ebdd6e1e673.gif",
-      "publishedAt": "2024-04-21T22:30:00Z",
-      "content": "The New Orleans Pelicans gutted out a win in the Play-In Tournament despite the absence of Zion Williamson, but they come in as massive NBA odds underdogs against the Oklahoma City Thunder tonight.\r\n… [+5062 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Abel Alvarado",
-      "title": "Ecuadorians head to polls for referendum as Noboa seeks backing for war on crime - CNN",
-      "description": "More than 13 million Ecuadorians head to the polls Sunday for a referendum focused on security that could shape the country’s future under its uncompromising new leader.",
-      "url": "https://www.cnn.com/2024/04/21/americas/ecuador-referendum-noboa-crime-intl-latam/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/shutterstock-editorial-14312181b.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2024-04-21T21:30:00Z",
-      "content": "More than 13 million Ecuadorians are expected to head to the polls Sunday for a referendum dominated by security issues, in a vote that could shape the political future of President Daniel Noboa and … [+6024 chars]"
     },
     {
       "source": {
@@ -242,25 +60,207 @@
         "name": "CBS Sports"
       },
       "author": null,
-      "title": "Miami Heat vs. Boston Celtics Live Score and Stats - April 21, 2024 Gametracker - CBS Sports",
-      "description": "Get real-time NBA basketball coverage and scores as Miami Heat takes on Boston Celtics. We bring you the latest game previews, live stats, and recaps on CBSSports.com",
-      "url": "https://www.cbssports.com/nba/gametracker/recap/NBA_20240421_MIA@BOS/",
+      "title": "Dallas Mavericks vs. Los Angeles Clippers Live Score and Stats - April 21, 2024 Gametracker - CBS Sports",
+      "description": "Get real-time NBA basketball coverage and scores as Dallas Mavericks takes on Los Angeles Clippers. We bring you the latest game previews, live stats, and recaps on CBSSports.com",
+      "url": "https://www.cbssports.com/nba/gametracker/recap/NBA_20240421_DAL@LAC/",
       "urlToImage": "https://sportsfly.cbsistatic.com/fly-0675/bundles/sportsmediacss/images/fantasy/default-article-image-large.png",
-      "publishedAt": "2024-04-21T21:22:30Z",
-      "content": "BOSTON (AP) The Celtics spent the days leading up to their playoff matchup with Miami talking about wanting to match the physicality of a team that would be looking for an edge without star Jimmy But… [+3959 chars]"
+      "publishedAt": "2024-04-22T10:19:23Z",
+      "content": "LOS ANGELES (AP) James Harden spent the season developing a pick-and-roll chemistry with big man Ivica Zubac. The future Hall of Famer in his first season in Los Angeles is schooling the longest-tenu… [+4472 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "TIA GOLDENBERG",
+      "title": "Israeli military intelligence chief resigns over his role in failing to prevent Oct. 7 attack - The Associated Press",
+      "description": "The head of Israel’s military intelligence directorate has resigned over Hamas’ Oct. 7 attack. Maj. Gen. Aharon Haliva, the head of Israel’s military intelligence, becomes the first senior Israeli figure to step down over the failures surrounding Hamas’ attac…",
+      "url": "https://apnews.com/article/israel-hamas-war-news-04-22-2024-85da1c989f71f8c3bf00d8b45a0ed7f1",
+      "urlToImage": "https://dims.apnews.com/dims4/default/b8f8866/2147483647/strip/true/crop/5616x3159+0+293/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F51%2F5c%2F58dbef5d5444f7a6f64629f288b7%2Fed2034b24fda4e778c2d8be1046ee261",
+      "publishedAt": "2024-04-22T10:19:00Z",
+      "content": "TEL AVIV, Israel (AP) The head of Israeli military intelligence resigned on Monday over the failures surrounding Hamas unprecedented Oct. 7 attack, the military said, becoming the first senior figure… [+3746 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Newsnationnow.com"
+        "name": "Hindustan Times"
       },
-      "author": "Julia Mueller, The Hill",
-      "title": "What happens if Trump gets convicted ahead of November? - NewsNation Now",
-      "description": "The first-ever criminal trial of a current or former American president is underway in Manhattan, renewing questions over what a potential conviction would mean for former President Trump as he campaigns for the White House. A conviction in the New York case,…",
-      "url": "https://www.newsnationnow.com/the-hill/what-happens-if-trump-gets-convicted-ahead-of-november/",
-      "urlToImage": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2024/04/Conviction-meaning_042124_Photo_AP.png?w=1280",
-      "publishedAt": "2024-04-21T20:59:04Z",
-      "content": "The first-ever criminal trial of a current or former American president is underway in Manhattan, renewing questions over what a potential conviction would mean for former President Trump as he campa… [+7052 chars]"
+      "author": "HT News Desk",
+      "title": "Reliance Q4 Result LIVE: RIL to announce quarterly earnings today - Hindustan Times",
+      "description": "Reliance Q4 Result LIVE: Key things to watch out for include- debt profile, guidance on capital expenditure and commissioning schedule of new energy business.",
+      "url": "https://www.hindustantimes.com/business/reliance-q4-results-live-updates-mukesh-ambani-ril-quarterly-result-latest-news-april-22-2024untitled-story-101713760458429.html",
+      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/04/22/550x309/ANI-20221228082-0_1677906139477_1677906139477_1713760872973.jpg",
+      "publishedAt": "2024-04-22T10:16:53Z",
+      "content": "Reliance Q4 Result LIVE: Mukesh Ambani-led Reliance Industries Ltd (RIL) will release its quarterly results today (April 22). The conglomerate is likely to report a 5-10 per cent drop in year-on-year… [+4395 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "News18"
+      },
+      "author": "Oindrila Mukherjee, Himani Chandna",
+      "title": "Mumps Cases On the Rise in Delhi-NCR, Other States; Why is This Viral Infection Making a Comeback? - News18",
+      "description": "Despite being preventable by vaccine, mumps is not included in India’s universal immunisation programme due to its low mortality rate. From a public health standpoint, priority has been given to measles elimination as it is more infectious and severe",
+      "url": "https://www.news18.com/india/mumps-cases-on-the-rise-in-delhi-ncr-other-states-why-is-this-viral-infection-making-a-comeback-8861127.html",
+      "urlToImage": "https://images.news18.com/ibnlive/uploads/2024/04/untitled-design-28-2024-04-e66881602fba21f14350186b7ca15817-16x9.jpg?impolicy=website&width=1200&height=675",
+      "publishedAt": "2024-04-22T10:09:31Z",
+      "content": "A number of states have reported high incidences of mumps in the last one month, with Delhi-NCR also reporting the occurrence of the viral infection now.\r\nThough the sporadic occurrence of cases with… [+4573 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "India Today"
+      },
+      "author": "India Today Science Desk",
+      "title": "Earth Day 2024: How a crashing missile captured first photo of Earth from space - India Today",
+      "description": "A 35-millimetre motion picture camera captured the first pictures of the Earth - on a black and white film - On October 24 1946",
+      "url": "https://www.indiatoday.in/science/story/earth-day-2024-how-a-crashing-missile-captured-first-photo-of-earth-from-space-2530175-2024-04-22",
+      "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202404/first-photo-pf-earth-222613570-16x9_0.jpg?VersionId=gfrxKAYmTZyOMsqz0rlKCpNDKZvntxBf",
+      "publishedAt": "2024-04-22T10:05:38Z",
+      "content": "When Yuri Gagarin launched into space in 1961 to become the first human to travel outside the planet, his spacecraft Vostok 1 had automatic cameras that captured images of Earth's curvature and horiz… [+2122 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "News18"
+      },
+      "author": "Yimkumla Longkumer, News Desk",
+      "title": "'Congress Says Minority Has First Right Over Country's Resources, But We Say Poor...': Amit Shah - News18",
+      "description": "The home minister made the comments while addressing an election rally in Kanker, Chhattisgarh. Polling in Kanker is scheduled to take place on April 26",
+      "url": "https://www.news18.com/politics/congress-says-minority-has-first-right-over-countrys-resources-but-we-say-poor-amit-shah-8861597.html",
+      "urlToImage": "https://images.news18.com/ibnlive/uploads/2024/04/amit-shah-2024-04-3aca210421ce326319e90eab731eef44-16x9.jpg?impolicy=website&width=1200&height=675",
+      "publishedAt": "2024-04-22T10:01:38Z",
+      "content": "Union Home Minister Amit Shah on Monday said that while the Congress believes the minority community has the first right over the countrys resources, the BJP holds the belief that the primary claim b… [+2330 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TOI World Desk",
+      "title": "From Apollo to Artemis: Why it's so difficult to send humans to Moon - The Times of India",
+      "description": "Nasa's Artemis program faces challenges due to budget constraints, reduced political will, infrastructure decisions, complex goals, and a vision for a",
+      "url": "https://timesofindia.indiatimes.com/home/science/from-apollo-to-artemis-why-its-so-difficult-to-send-humans-to-moon/articleshow/109500019.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-109500057,width-1070,height-580,imgsize-32360,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-04-22T09:58:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "indy100"
+      },
+      "author": "Harriet Brewis",
+      "title": "Antarctica's Mount Erebus volcano emits real gold dust | indy100 - indy100",
+      "description": "The frozen continent of Antarctica is, paradoxically, a hotbed of volcanic activity.The ice-capped region is home to some 138 volcanoes nestled beneath the snow, 91 of which were discovered as recently as 2017.Whilst most of them are considered dormant or pos…",
+      "url": "https://www.indy100.com/science-tech/antarctic-volcano-gold-dust-2667828020",
+      "urlToImage": "https://www.indy100.com/media-library/how-does-a-volcano-explode.jpg?id=52003087&width=1200&height=600&coordinates=0%2C432%2C0%2C432",
+      "publishedAt": "2024-04-22T09:55:36Z",
+      "content": "The frozen continent of Antarctica is, paradoxically, a hotbed of volcanic activity.\r\nThe ice-capped region is home to some 138 volcanoes nestled beneath the snow, 91 of which were discovered as rece… [+4062 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
+      },
+      "author": null,
+      "title": "Big Blow To Trinamool, 25,000 Bengal Teachers Fired, Told To Return Salary - NDTV",
+      "description": "In a big setback to the Mamata Banerjee government, the Calcutta High Court has cancelled the 2016 recruitment process for government-sponsored and aided schools.",
+      "url": "https://www.ndtv.com/india-news/25-000-bengal-teachers-to-lose-jobs-as-calcutta-high-court-acts-on-illegal-appointments-5495957",
+      "urlToImage": "https://i.ndtvimg.com/i/2017-01/calcutta-high-court_650x400_41484337041.jpg",
+      "publishedAt": "2024-04-22T09:51:00Z",
+      "content": "Kolkata: In a big setback to the Mamata Banerjee government, the Calcutta High Court has cancelled the 2016 recruitment process for government-sponsored and aided schools. As many as 25,753 appointee… [+3054 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "News18"
+      },
+      "author": "Aakash Biswas",
+      "title": "Gautam Gambhir Gracefully Hugs Virat Kohli, Lauds RCB's 'Phenomenal Display of Character' in Mammoth Chase - News18",
+      "description": "Former KKR captain and mentor Gautam Gambhir took to microblogging site X to laud RCB’s efforts in the mammoth chase.",
+      "url": "https://www.news18.com/cricket/gautam-gambhir-gracefully-hugs-virat-kohli-lauds-rcbs-phenomenal-display-of-character-after-intense-clash-8861302.html",
+      "urlToImage": "https://images.news18.com/ibnlive/uploads/2024/04/virat-kohli-and-gautam-gambhir-hug-each-other-after-the-kkr-vs-rcb-clash-in-kolkata-2024-04-1d4cec9222779498d75d2fc44aaa84a3-16x9.jpg?impolicy=website&width=1200&height=675",
+      "publishedAt": "2024-04-22T09:47:57Z",
+      "content": "The Royal Challengers Bengaluru (RCB) looked to end their losing streak in the Indian Premier League (IPL) 2024 when they squared off against Kolkata Knight Riders (KKR) on Sunday at Eden Gardens. Th… [+1935 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustan Times"
+      },
+      "author": "HT News Desk",
+      "title": "NASA shares images of Jupiter's stormy weather, may last for centuries - Hindustan Times",
+      "description": "The space agency shared a couple of pictures of the storms on Jupiter, saying that the stormy weather “can last for years, decades, or even centuries.”",
+      "url": "https://www.hindustantimes.com/science/nasa-shares-images-of-jupiters-stormy-weather-may-last-for-years-decades-or-centuries-juno-mission-101713770937288.html",
+      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/04/22/1600x900/Screenshot_2024-04-22_130853_1713771524704_1713771537768.png",
+      "publishedAt": "2024-04-22T09:47:56Z",
+      "content": "NASA on Monday shared stunning images of Jupiter, the fifth and largest planet in the solar system, showcasing its stormy weather. The space agency took to Instagram to share pictures of the storms o… [+2358 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Zoom"
+      },
+      "author": "TN Science Desk",
+      "title": "NASA Alert: 240-foot Asteroid Moving Towards Earth At 33204 Kmph - Know The Threat - Times Now",
+      "description": "NASA has alerted that a giant spacecraft-sized asteroid is racing towards Earth today to make a close approach. Here is what NASA has revealed.",
+      "url": "https://www.timesnownews.com/technology-science/science/nasa-alert-240-foot-asteroid-moving-towards-earth-at-33204-kmph-know-the-threat-article-109499461",
+      "urlToImage": "https://static.tnn.in/thumb/msid-109499528,thumbsize-106690,width-1280,height-720,resizemode-75/109499528.jpg",
+      "publishedAt": "2024-04-22T09:47:07Z",
+      "content": "Tennis Meets Football: Rafael Nadal, Carlos Alcaraz And Iga Swiatek Attend La Liga Game Between Real Madrid and Barcelona"
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Linda Searing",
+      "title": "Some 11 percent of U.S. children have been diagnosed with ADHD - The Washington Post",
+      "description": "The researchers found that ADHD was more prevalent among boys than girls and that those 12 and older were more likely to be diagnosed than were those younger than 12.",
+      "url": "https://www.washingtonpost.com/wellness/2024/04/22/adhd-children-teen-attention-hyperactivity/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5FV3DSXAWNE27FRLEGLMMVA3P4.jpg&w=1440",
+      "publishedAt": "2024-04-22T09:33:38Z",
+      "content": "More than 1 in 10 children in the United States about 11 percent of those ages 5 to 17 have been diagnosed with attention-deficit/hyperactivity disorder (ADHD), according to a report from the Nationa… [+1623 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Shiv Sudhakar",
+      "title": "Toddler milk is ‘potentially harmful,’ AAP warns amid calls for stricter regulations - Fox News",
+      "description": "Experts warn that toddler milk might not have the benefits that marketers claim even as this milk has become a huge worldwide business. Here is nutrition insight from all sides.",
+      "url": "https://www.foxnews.com/health/toddler-milk-potentially-harmful-aap-warns-amid-calls-stricter-regulations",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/04/toddler-milk-split.jpg",
+      "publishedAt": "2024-04-22T09:30:00Z",
+      "content": "Toddler milk products have grown into a multibillion-dollar global business, despite warnings from health authorities that the benefits of this milk formula are unproven.\r\nThe products are marketed w… [+8154 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustan Times"
+      },
+      "author": "HT News Desk",
+      "title": "‘Congress & allies want to snatch your assets’: PM Modi in UP's Aligarh - Hindustan Times",
+      "description": "Prime Minister Narendra Modi said the people of Aligarh put locks on appeasement, nepotism and corruption. | Latest News India",
+      "url": "https://www.hindustantimes.com/india-news/congress-allies-want-to-snatch-your-assets-pm-modi-in-ups-aligarh-101713776302618.html",
+      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/04/22/1600x900/PM_Modi_rally_in_Aligarh_1713776297051_1713776297219.jpg",
+      "publishedAt": "2024-04-22T09:25:42Z",
+      "content": "Prime Minister Narendra Modi on Monday lashed out at the Congress, accusing it of trying to amend a law to snatch assets of the citizens. \r\nCongress and its allies have an eye on your income and asse… [+2740 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Koreaboo.com"
+      },
+      "author": null,
+      "title": "Min Hee Jin Allegedly Planned On Using NewJeans In HYBE Betrayal - Koreaboo",
+      "description": "Min Hee Jin reportedly planned on using NewJeans to make HYBE relinquish equity in the company. The Ador CEO is alleged to be behind a failed coup.",
+      "url": "https://www.koreaboo.com/news/min-hee-jin-new-jeans-hybe-ador-use/",
+      "urlToImage": "https://img.koreaboo.com/2024/04/fi-930.jpg",
+      "publishedAt": "2024-04-22T09:25:38Z",
+      "content": "Min Hee Jin reportedly planned on using NewJeans to make HYBE relinquish equity in the company.\r\nMin Hee Jin | Pinterest \r\nOn April 22, news broke out that Ador CEO Min Hee Jin had been asked to step… [+867 chars]"
     }
   ]
 }

@@ -24,7 +24,7 @@ export default function CarouselAutoplay({ data }: Props) {
       <CarouselContent className="-ml-0">
         {data.map((article) => (
           <CarouselItem key={article.title} className="pl-0">
-            <div className="w-full relative h-[50dvh]">
+            <div className="w-full relative h-[50dvh] md:h-[66dvh]">
               {article.urlToImage ? (
                 <img
                   src={article.urlToImage || "/no-image.webp"}
@@ -39,7 +39,7 @@ export default function CarouselAutoplay({ data }: Props) {
                   </span>
                 </div>
               )}
-              <div className="absolute bottom-0 inset-0 bg-gradient-to-t from-black/50 to-transparent" />
+              <div className="absolute bottom-0 inset-0 top-auto bg-gradient-to-t from-black via-black/75 to-transparent h-2/3" />
               <div className="absolute bottom-0 h-fit top-auto inset-0 flex md:flex-row flex-col justify-between items-end p-4 text-white gap-6">
                 <div className="flex flex-col gap-1">
                   <Link href={article.url} target="_blank" rel={"noopener noreferrer"}>

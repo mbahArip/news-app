@@ -4,6 +4,8 @@ import NextjsTopLoader from "nextjs-toploader";
 import { Toaster } from "~/components/ui/toaster";
 import newsAPI from "~/lib/news";
 import { cn } from "~/lib/utils";
+import LoadingStopper from "./LoadingStopper.client";
+import ToTop from "./ToTop.client";
 import Footer from "./global/Footer";
 import Navbar from "./global/Navbar";
 import "./globals.css";
@@ -29,8 +31,10 @@ export default async function RootLayout({
     <html lang="en">
       <body className={cn(inter.className, "w-full min-h-screen flex flex-col")}>
         <NextjsTopLoader showSpinner={false} />
-        <Navbar sources={sumber.sources} />
+        <LoadingStopper />
+        <Navbar />
         <main className="w-full flex-grow">{children}</main>
+        <ToTop />
         <Toaster />
         <Footer />
       </body>
